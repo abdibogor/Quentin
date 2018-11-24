@@ -1,0 +1,6 @@
+SELECT COUNT(`username`) from `users` WHERE  `username`= `quentin92`
+
+SELECT AVG(`product_price`) FROM `products`
+
+SELECT SUM(`product_stock`) FROM `products`
+

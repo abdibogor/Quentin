@@ -1,0 +1,6 @@
+SELECT * FROM `products` WHERE 1
+
+SELECT * FROM WHERE 1
+
+SELECT `product_name`, `product_stock` FROM  `products` WHERE `product_stock` <= 10
+

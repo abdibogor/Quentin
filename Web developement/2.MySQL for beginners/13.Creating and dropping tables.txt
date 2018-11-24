@@ -1,0 +1,9 @@
+CREATE TABLE `reviews` (
+  	 review_id INT NOT NULL AUTO_INCREMENT,
+	 review_title VARCHAR(255) NOT NULL,
+	 review_description TEXT(1000) NOT NULL,
+	 users_id INT NOt NULL,
+	 PRIMARY KEY(review_id)
+)
+
+DROP TABLE `reviews`

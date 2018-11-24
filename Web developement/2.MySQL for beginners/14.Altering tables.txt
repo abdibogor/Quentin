@@ -1,0 +1,7 @@
+ALTER TABLE `users` ADD `random_column` varchar(255);
+
+AlTER TABLE `users` MODIFY ADD `random_column` varchar(255);
+
+ALTER TABLE `users` MODIFY `random_column` year_month;
+
+

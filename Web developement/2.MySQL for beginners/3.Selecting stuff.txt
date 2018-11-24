@@ -1,0 +1,12 @@
+he explained how to use first 
+secondly phpadmin
+SQL
+SELECT * FROM `users` 
+GO
+
+SELECT `username`, `password` FROM `users` 
+GO
+ 
+SELECT `first_name`, `last_name`, `username` FROM `users`
+GO
+

@@ -1,0 +1,3 @@
+SELECT users.username, users.first_name, users.last_name, addresses.address_line_1,
+addresses.city, addresses.state_province FROM addresses LEFT JOIN users ON addresses
+.users_id = users_id;

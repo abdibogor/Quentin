@@ -1,0 +1,6 @@
+SELECT * FROM `products` WHERE `product_description` LIKE '%ipsum'
+
+SELECT * FROM `products` WHERE `product_description` LIKE 'Lorem'
+
+
+

@@ -1,0 +1,1 @@
+Update `users` SET `username`=`quentin`, `user_email`='quentin@noteexist.com' `first_name`=`quentin` WHERE `id`=1

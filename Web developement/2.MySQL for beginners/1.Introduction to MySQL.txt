@@ -1,0 +1,14 @@
+what is a database?
+A collection of data
+
+e.g Databases are made users
+
+e.g Different data can go in different tables
+1. Users table
+2. addresses table
+3. orders table
+4. products table
+
+Where does MySQL come in?
+Add, remove, modify, search, and join talbes in a database using code
+

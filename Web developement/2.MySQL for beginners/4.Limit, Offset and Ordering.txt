@@ -1,0 +1,7 @@
+SELECT * FROM `users` LIMIT 10 OFFSET 5
+GO
+
+SELECT * FROM `users` ORDER BY `id` LIMIT 10
+
+
+

@@ -1,0 +1,4 @@
+SELECT * FROM
+Menu SQL 
+INSERT INTO `users` (`username`,`passwor`,`user_email`,`last_name`) 
+VALUES (`BRAD`,`pass1234`,`bradfakemail.com`,`Brad`,`Goddard`)

@@ -1,0 +1,14 @@
+CREATE TABLE Orders {
+ 	OrderID int NOT NULL,
+	OrderNumber int NOT NULL,
+	PersonInd int,
+	PRIMARY KEY (OrderID),
+	FOREIGN KEY (PersonID) REFERENCIES Personnes (PersonID)
+};
+
+ALTER TABLE orders ADD FOREIGN KEY(product_id) REFERENCIES products(product_id){}
+ 
+ALTER TABLE orders ADO PORTION KEY (user_id) REFERENCIES products(product_id)
+
+ALTER TABLE ordres ROP FOREIGN KEY order_ibfk_1
+

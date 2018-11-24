@@ -1,0 +1,3 @@
+Primary key
+a unique field in our table
+

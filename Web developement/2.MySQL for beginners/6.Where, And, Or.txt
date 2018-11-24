@@ -1,0 +1,6 @@
+SELECT * FROM `addresses` WHERE `state_province` = "Western Cape" AND `city` = `cape Town`
+
+SELECT * FROM `addresses` WHERE `state_province`= 'CAL' AND `city` = 'South Park City'
+
+SELECT * FROM `addresses` WHERE `state_province`=`CAL` OR `state_province` ='Western Cape'
+
