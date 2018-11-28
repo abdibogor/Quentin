@@ -1,0 +1,5 @@
+localhost:8080/Joomla_3.9.0-Stable-Full_Package/administrateur
+enter your email:
+your password:
+
+c'est tutorial nous explique comment utiliser joomla dedans le menu

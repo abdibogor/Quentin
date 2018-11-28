@@ -1,0 +1,3 @@
+you can login cpanel
+categories Email
+you can click "Add Email Account"

@@ -1,0 +1,6 @@
+http://localhost:8080/wordpress/wordpress/wp-login.php
+
+aller du site
+personnaliser
+site identity
+site title

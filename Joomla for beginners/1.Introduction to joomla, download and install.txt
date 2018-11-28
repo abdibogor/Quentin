@@ -1,0 +1,20 @@
+What is Joomla?
+Content Management System
+
+why yse Joomla?
+Really Powerfull,
+Makes our job easier
+
+What you need?
+A good browser, like Firefox or chrome.
+A good text editor, like Notepad++ or Sublime.
+Apache and php software like XAMPP
+The Joomla download and installed
+
+
+visit the website
+joomla.org
+
+localhost:8080/Joomla_3.9.0-Stable-Full_Package
+mot de passe : NZs9j4zjJSzFp4Y
+

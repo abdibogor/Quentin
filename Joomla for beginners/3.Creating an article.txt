@@ -1,0 +1,6 @@
+localhost:8080/Joomla_3.9.0-Stable-Full_Package/administrateur
+identify your login
+after that
+Content
+After Manager
+Add New Article
