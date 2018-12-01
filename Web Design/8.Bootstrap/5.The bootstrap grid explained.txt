@@ -1,0 +1,5 @@
+Break Points
+Large screens(widescreen desktops)
+Medium screens(older square desktops)
+Small Screes(tablets)
+Extra small screens(phones)

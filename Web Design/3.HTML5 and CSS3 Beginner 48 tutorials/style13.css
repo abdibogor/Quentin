@@ -1,0 +1,16 @@
+/* 12. External style sheets 
+p {
+     color: red;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+**/
+
+/*** 13. font properties **/
+p {
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: normal;
+}

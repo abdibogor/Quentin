@@ -1,0 +1,23 @@
+/*** 25.Float and Clear **/
+.box-1{
+	  float: left;
+	  width: 50%;
+}
+
+.box-2{
+	  float: right;
+	  width: 50%;
+}
+
+.box-1 .inner-box{
+	   background-color: green;
+	   height: 400px;
+	   margin-right: 15px;
+	   text-align: center;
+}
+
+.box-2 .inner-box{
+	   background-color: pink;
+	   height: 400px;
+	   margin-left: 15px;
+}

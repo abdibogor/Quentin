@@ -1,0 +1,116 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Abel', sans-serif;
+}
+
+body{
+	  background: #eeeeee; /*Very light gray*/
+}
+
+.tm-container{
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.logo{
+    width: 120px;
+	float: left;
+}
+
+.tm-header{
+	      background: #fff; /*white*/
+}
+
+.tm-header::after{
+	      content: " ";
+		  clear: both;
+		  display: block;
+		  visibility: none;
+}
+
+.tm-nav{
+	     float: right;
+}
+
+.tm-nav ul{
+	     margin-bottom: 0px;
+}
+
+.tm-nav ul li{
+	     display: inline-block;
+}
+
+.tm-nav ul li a{
+	     padding: 10px 20px;
+		 text-decoration: none;
+		 color: #333;
+		 line-height: 60px;
+}
+
+.tm-nav ul li a:hover{
+	   color: #3e99ff; /* Light blue. */
+}
+
+/*** 31. Creating a simple website layout part 2 ***/
+p{
+	margin-bottom: 20px;
+}
+
+h1,h2,h3,h4,h5,h6{
+	     margin-bottom: 10px;
+}
+
+ul,ol {
+	   margin-left: 20px;
+	   margin-right: 20px;
+}
+
+img{
+	 display: block;
+	 max-width: 100%;
+}
+
+/*** 32. creating a simple website  layout **/
+.tm-content{
+	   margin-top: 30px;
+	   margin-bottom: 30px;
+	   max-width: 70%;
+	   float: left;
+}
+
+.tm-sidebar{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	max-width: 25%;
+	float: right;
+    width: 25%;
+}
+
+.tm-sidebar div{
+	background: #fff; /* white */
+	padding: 30px;
+}
+
+.tm-article{
+	  background: #fff;
+	  padding: 30px;
+}
+
+.clearfix::after{
+	      content: " ";
+		  clear:both;
+		  display: block;
+		  visibility: none;
+}
+
+.tm-footer {
+	         clear:both;
+	         text-align:center;
+			 background-color: #fff; /* white */
+			 padding: 20px;
+}
+
+.small {
+	    text-align: right;
+}

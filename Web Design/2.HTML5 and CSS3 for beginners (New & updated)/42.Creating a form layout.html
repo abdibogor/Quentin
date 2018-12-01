@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg">
+<link rel="stylesheet" type="text/css" href="">
+<style type="text/css">
+input[type="submit"],input[type="button"],button{
+	  background: #bb0000;
+	  border: 0px;
+	  padding: 5px 20px;
+	  color: #fff;
+}
+
+input[type="text"],input[type="password"]{
+	 height: 25px;
+}
+
+.form-row{
+	    margin: 10px 0px;
+	    background: red;
+}
+
+.form-row::after{
+	    content: ".";
+	    clear:both;
+	    visibility: hidden;
+	    height: 0px;
+	    display: block;
+}
+
+.form-label{
+	 float: left;
+	 width: 30%;
+}
+
+.form-label{
+	 float: left;
+	 width: 70%;
+}
+
+</style>
+</head>
+<body>
+
+		<form action="login.php" method="post">
+		<div class="form-row">
+		<div class="form-label">
+		<label for="name"Name:>Name:</label>
+	</div>
+	<div class="form-input">
+		<input type="text" name="name" id="name">
+	</div>
+ </div>
+	<div class="form-row">
+		<div class="form-label">
+		<label for="password">Password:</label>
+		</div>
+		<div class="form-input">
+		<input type="password" name="password" id="password">
+	</div>
+	</div>	
+		<br>
+		<div class="form-row">
+		<input type="submit" value="submit">
+	</div>
+		</form>
+
+</body>
+</html> 

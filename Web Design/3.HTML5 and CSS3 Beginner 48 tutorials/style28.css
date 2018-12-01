@@ -1,0 +1,8 @@
+body {
+     background-image: url("motivation.png");
+     //background-size: cover;
+     background-repeat: repeat-y; //vertical X = horizontal
+     background-color: #272727;
+     //background-position: bottom right;
+     //background-attachment: fixed;
+}

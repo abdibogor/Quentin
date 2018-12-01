@@ -1,0 +1,95 @@
+/*
+author:abdibogoreh
+version: 
+*/ 
+/* Selects everything on the web page */
+
+*{
+    margin:0px auto;
+    padding:0px;
+}
+
+body{
+    font-family:sans-serif;
+    //text-align: center;
+}
+
+/* centering the web page */
+#center_maker{
+         width:960px; /* divides into 3 parts really well */
+         //border:2px solid red;
+         margin:0px auto; /* centers the web page */
+} 
+
+/** header css starts here **/
+#page_header{
+            border:2px solid blue;
+            margin-top:  ;
+}
+
+.logo{
+        display:inline;
+        vertical-align: middle;
+}
+
+.head_text{
+        display:inline;
+}
+
+/* end of header styling start navigation styling*/
+#top_nav{
+       border: 2px solid red;
+       margin: 5px 0px;
+       text-align: center;
+       padding: 15px;
+}
+
+#top_nav ul{
+    list-style-type:none;  
+}
+
+#top_nav ul li{
+    display: inline;  
+}
+
+#top_nav ul li a{
+    padding: 10px;
+    color: #333;
+    text-decoration: none;  
+}
+
+/* End navigation
+   Start navigation
+*/
+
+#the_section{ /* total width 640px */
+        float: left;
+        margin: 0px 10px 10px 0px; /* top right bottom left */
+        padding: 10px; /* 20px over all width for padding */
+        border:2px solid green; /* 4px to add to width */
+        width: 606px; 
+} 
+
+/* 
+* end section styling
+* start side news styling 
+*/
+
+#side_news{
+           float: left;
+           padding:10px; /*-20px */
+           border:2px solid orange; /* -4px */ 
+           width: 296px;
+}
+
+/*
+* end side news
+* start footer
+*/
+
+#page_footer{
+            clear:both;
+            border:2px solid black;
+            padding:10px;
+            text-align: center;
+}

@@ -1,0 +1,22 @@
+/*
+author:abdibogoreh
+version: 
+*/
+
+/* Selects everything on the web page */
+*{
+    margin:0px auto;
+    padding:0px;
+}
+
+body{
+    font-family:sans-serif;
+    text-align: center;
+}
+
+/* centering the web page */
+#center_maker{
+         width:960px; /* divides into 3 parts really well */
+         border:2px solid red;
+         margin:0px auto; /* centers the web page */
+} 

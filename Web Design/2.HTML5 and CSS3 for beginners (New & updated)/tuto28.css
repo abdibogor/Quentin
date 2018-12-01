@@ -1,0 +1,6 @@
+.grad{
+	  background-color: red;
+	  height: 300px;
+	  width: 100%;
+	  background: linear-gradient( to right, red, orange, yellow, green, blue, indigo, violet);
+}

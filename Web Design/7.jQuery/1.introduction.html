@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  	<meta charset="utf-8">
+    <title>1 introduction jQuery</title>
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script> 
+</head>
+<body>
+
+	<!-- <p onClick="$(this).hide();">Hey there whatsapp?</p> //-->
+    <p id="para">Hey there whatsapp?</p>
+	
+	<script>
+		var paragraaf = $('#para');
+		
+		paragraaf.on('click', function(){
+				$(this).hide();
+			});
+    </script>
+
+   
+
+</body>
+</html>

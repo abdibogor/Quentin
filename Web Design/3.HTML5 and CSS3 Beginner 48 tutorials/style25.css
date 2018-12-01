@@ -1,0 +1,7 @@
+#dad p:last-child{
+    color: red;
+  }
+
+#dad p::before{
+    content: url("abdi.jpg");
+  }

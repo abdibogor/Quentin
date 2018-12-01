@@ -1,0 +1,28 @@
+ul {
+	/*
+	list-style-image: url('');
+	*/
+	 
+	 list-style-type: decimal-leading-zer;
+	 
+	 
+	 /*
+	 decimal-leading-zero
+	 lower-roman
+	 disc
+	 circle
+	 square
+	 none
+	 */
+}
+
+ul {
+	/*
+	   type="1"
+	   type="A"
+	   type="a"
+	   type="i"
+	   type="l"
+	*/
+}	
+

@@ -1,0 +1,14 @@
+.rounded-corners{
+	/*
+	   border-bottom-left-radius: 25px;
+	   */
+	   border-radius:50px;
+	   width: 250px;
+}
+
+.box {
+	  background-color: blue;
+		height: 400px;
+		width: 400px;
+		padding: 20px;
+}
